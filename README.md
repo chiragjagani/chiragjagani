@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Chirag Jagani 👋
 
 Welcome to my GitHub profile! I'm a Computer Engineer with a passion for Technology. 
 
@@ -45,9 +45,9 @@ Welcome to my GitHub profile! I'm a Computer Engineer with a passion for Technol
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=chiragjagani&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragjagani&layout=compact&theme=radical)
 
 ## Connect with Me
 
