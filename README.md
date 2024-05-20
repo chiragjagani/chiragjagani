@@ -17,6 +17,9 @@ Welcome to my GitHub profile! I'm a [Your Profession/Title] with a passion for [
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frameworks & Libraries
 
@@ -60,9 +63,3 @@ Here are some of my projects that I'm proud of:
 <!--END_SECTION:activity-->
 
 Thank you for visiting my profile! Feel free to check out my repositories and reach out if you want to collaborate on anything exciting.
-
-
-<!---
-chiragjagani/chiragjagani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
