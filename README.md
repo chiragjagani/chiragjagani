@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a Computer Engineer with a passion for Technol
 - 🌱 I’m currently learning: Bachelor of Engineering
 - 👯 I’m looking to collaborate on: Any Project just gives me 2 days and ready to go.
 - 💬 Ask me about:
-- - Web development using React, Angular, or Next.js
+  - Web development using React, Angular, or Next.js
   - Backend development with Node.js
   - Building mobile applications with Kotlin and Android
   - Database design and management with PostgreSQL and MongoDB
