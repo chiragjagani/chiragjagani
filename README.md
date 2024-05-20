@@ -1,14 +1,19 @@
 # Hi there, I'm [Your Name] 👋
 
-Welcome to my GitHub profile! I'm a [Your Profession/Title] with a passion for [Your Interests or Specialties]. 
+Welcome to my GitHub profile! I'm a Computer Engineer with a passion for Technology. 
 
 ## About Me
 
-- 🌱 I’m currently learning: [Learning Topics or Technologies]
-- 👯 I’m looking to collaborate on: [Types of Projects or Areas of Interest]
-- 💬 Ask me about: [Areas of Expertise or Interests]
-- 📫 How to reach me: [Your Email or Other Contact Info]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 🌱 I’m currently learning: Bachelor of Engineering
+- 👯 I’m looking to collaborate on: Any Project just gives me 2 days and ready to go.
+- 💬 Ask me about:
+- - Web development using React, Angular, or Next.js
+  - Backend development with Node.js
+  - Building mobile applications with Kotlin and Android
+  - Database design and management with PostgreSQL and MongoDB
+  - Creating 3D graphics with Three.js
+- 📫 How to reach me: info.chiragjagani@gmail.com
+- ⚡ Fun fact: I have a knack for solving complex puzzles and enjoy tackling new challenges!
 
 ## My Skills
 
@@ -38,18 +43,6 @@ Welcome to my GitHub profile! I'm a [Your Profession/Title] with a passion for [
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-## Projects
-
-Here are some of my projects that I'm proud of:
-
-1. [Project Name](https://github.com/your-username/project-repo)
-    - **Description:** Brief description of what the project does.
-    - **Technologies Used:** List of technologies used.
-
-2. [Another Project](https://github.com/your-username/another-project-repo)
-    - **Description:** Brief description of what the project does.
-    - **Technologies Used:** List of technologies used.
-
 ## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
@@ -61,10 +54,5 @@ Here are some of my projects that I'm proud of:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 [![Personal Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com)
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 Thank you for visiting my profile! Feel free to check out my repositories and reach out if you want to collaborate on anything exciting.
