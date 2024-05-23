@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm a Computer Engineer with a passion for Technol
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jagani-chirag-3a545a276)
-[![](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chirag_jag73491)
+[![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chirag_jag73491)
 [![Personal Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jaganichirag.netlify.app/)
 
 Thank you for visiting my profile! Feel free to check out my repositories and reach out if you want to collaborate on anything exciting.
