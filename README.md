@@ -1,58 +1,72 @@
-# Hi there, I'm Chirag Jagani 👋
+# 👋 Hi there, I'm Chirag Jagani
 
-Welcome to my GitHub profile! I'm a Computer Engineer with a passion for Technology. 
+Welcome to my GitHub! I’m a passionate **Java Developer** and **Full Stack enthusiast** actively building real-world projects with **Spring Boot**, **React.js**, and modern web technologies.
 
-## About Me
+---
 
-- 🌱 I’m currently learning: Bachelor of Engineering
-- 👯 I’m looking to collaborate on: Any Project just gives me 2 days and ready to go.
-- 💬 Ask me about:
-  - Web development using React, Angular, or Next.js
-  - Backend development with Node.js
-  - Building mobile applications with Kotlin and Android
-  - Database design and management with PostgreSQL and MongoDB
-  - Creating 3D graphics with Three.js
-- 📫 How to reach me: info.chiragjagani@gmail.com
-- ⚡ Fun fact: I have a knack for solving complex puzzles and enjoy tackling new challenges!
+## 🧑‍💻 About Me
 
-## My Skills
+🎓 Final-year **Computer Engineering** student from LDRP-ITR, Gandhinagar  
+👨‍💼 6 months of professional experience from industry internships  
+🚀 Exploring Spring Boot, Spring Security, JWT, Microservices, MongoDB, and React  
+🛠️ Currently building: `MindfulSync` – a mental health and peer support platform  
+💬 Ask me about:  
+&nbsp;&nbsp;&nbsp;&nbsp;• Spring Boot & REST APIs  
+&nbsp;&nbsp;&nbsp;&nbsp;• Secure backend with JWT  
+&nbsp;&nbsp;&nbsp;&nbsp;• Full-stack apps with React.js  
+&nbsp;&nbsp;&nbsp;&nbsp;• Database design (SQL & NoSQL)
 
-### Programming Languages
+📬 Reach me at: **info.chiragjagani@gmail.com**  
+🌐 Portfolio: [jaganichirag.netlify.app](https://jaganichirag.netlify.app)  
+📌 Fun Fact: I love building from scratch and learning by doing!
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+---
+
+## 💡 Tech Stack & Skills
+
+### 💻 Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frameworks & Libraries
+### 🧰 Backend  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
+### 🌐 Frontend  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
-### Tools & Platforms
-
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+### 🛢️ Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-## GitHub Stats
+### 🧪 Testing & Tools  
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=chiragjagani&show_icons=true&theme=radical)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragjagani&layout=compact&theme=radical)
+## 📈 GitHub Stats
 
-## Connect with Me
+![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiragjagani&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragjagani&layout=compact&theme=radical)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jagani-chirag-3a545a276)
-[![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chirag_jag73491)
-[![Personal Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jaganichirag.netlify.app/)
+---
 
-Thank you for visiting my profile! Feel free to check out my repositories and reach out if you want to collaborate on anything exciting.
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagani-chirag-3a545a276)  
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chirag_jag73491)  
+[![Website](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jaganichirag.netlify.app/)
+
+---
+
+🧠 _“Code. Learn. Repeat.”_  
+Thanks for visiting — feel free to explore my repositories and connect if you want to collaborate!
