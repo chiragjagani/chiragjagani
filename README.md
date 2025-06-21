@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m a passionate **Java Developer** and **Full Stack ent
 
 ## 🧑‍💻 About Me
 
-🎓 Final-year **Computer Engineering** student from LDRP-ITR, Gandhinagar  
+🎓 Completed **Bachelor of Engineering in Computer Engineering** from LDRP-ITR, Gandhinagar  
 👨‍💼 6 months of professional experience from industry internships  
 🚀 Exploring Spring Boot, Spring Security, JWT, Microservices, MongoDB, and React  
 🛠️ Currently building: `MindfulSync` – a mental health and peer support platform  
